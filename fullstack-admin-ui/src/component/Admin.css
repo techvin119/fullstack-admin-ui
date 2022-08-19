@@ -1,0 +1,140 @@
+
+ .admin-border {
+  border:2px solid;
+  border-radius: 0px;
+  margin-bottom: 8px;
+  color:black;
+}
+
+.admin-associate-label {
+  padding-left: 23px;
+  text-align: center;
+  padding-right: 30px;
+  padding-top:5px;
+  padding-bottom:5px;
+}
+
+.admin-name-label{
+  padding: 5px 43px 5px 43px;
+}
+
+.admin-skill-label{
+  padding: 5px 45px 5px 45px;
+}
+
+.admin-search-label{
+  padding: 6px 31px 6px 31px;
+}
+
+.admin-panel-label {
+  padding: 8px 35px 8px 35px;
+}
+
+.admin-drop{
+  padding-right:4px;
+}
+
+.admin-logo{
+    height: 82%;
+    width: 40%;
+    margin-left: -60px;
+    margin-top:-8px;
+}
+
+.admin-margin{
+  margin-top:15px
+}
+
+.admin-table {
+  border: 2px solid black;
+  border-collapse: collapse;
+  margin-bottom:50px;
+  margin-top:20px;
+ 
+}
+
+.admin-th {
+  border: 2px solid black;
+  border-collapse: collapse;
+  padding-right:25px;
+  
+}
+
+.admin-td {
+  border: 2px solid black;
+  border-collapse: collapse;
+  text-align:center;
+  padding-right:30px ;
+  padding-left:30px ;
+  
+}
+
+.admin-margin-table{
+  margin-left: -40px;
+  margin-right: -35px;
+}
+
+.admin-font{
+  font-size: 12px;
+}
+
+.admin-align{
+  margin-top: 50px;
+  margin-left: -40px;
+  
+}
+
+.admin-container{
+  margin-left: 25px;
+  font-size: 12px;
+}
+
+.admin-margin{
+  margin-left: 0px;
+}
+
+.admin-color{
+  background-color: grey;
+  text-align: left;
+  
+}
+
+.pagination {
+  display: flex;
+  list-style: none;
+  cursor: pointer;
+  font-size: 11px;
+  
+}
+
+.pagination a {
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid ;
+  color: grey;
+ 
+}
+
+.pagination__link {
+  font-weight: bold;
+}
+
+.pagination__link--active a {
+  color: #fff;
+  background: grey;
+}
+
+.pagination__link--disabled a {
+  color: rgb(198, 197, 202);
+  border: 1px solid rgb(198, 197, 202);
+}
+
+.page-align{
+  margin-left:-12px;
+}
+
+
+
+
+
+
